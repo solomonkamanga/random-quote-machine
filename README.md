@@ -2,7 +2,7 @@
 
 Website that shows movie quotes chosen at random.  It was developed for the "Build a Random Quote Machine" project from [freeCodeCamp](https://www.freecodecamp.org).
 
-Objective: Build a CodePen.io app that is functionally similar to this: [Tribute Page](https://codepen.io/freeCodeCamp/full/ONjoLe)
+Objective: Build a CodePen.io app that is functionally similar to this: [Random Quote Machine](https://codepen.io/freeCodeCamp/full/ONjoLe)
 
 [User Stories](https://www.freecodecamp.org/challenges/build-a-random-quote-machine) | [CodePen](https://codepen.io/solomonkamanga/pen/japYRV) | [GitHub](hhttps://github.com/solomonkamanga/random-quote-machine) | [Demo](https://solomonkamanga.github.io/random-quote-machine)
 
